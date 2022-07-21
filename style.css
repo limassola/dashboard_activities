@@ -123,27 +123,27 @@ body{
 
 .dashboard_item--work{
     background-color: var(--red-100);
-    background-image: url(images/icon-work.svg);
+    background-image: url(./icon-work.svg);
 }
 .dashboard_item--play{
     background-color: var(--blue-100);
-    background-image: url(images/icon-play.svg);
+    background-image: url(./icon-play.svg);
 }
 .dashboard_item--study{
     background-color: var(--red-200);
-    background-image: url(images/icon-study.svg);
+    background-image: url(./icon-study.svg);
 }
 .dashboard_item--exercise{
     background-color: var(--green-100);
-    background-image: url(images/icon-exercise.svg);
+    background-image: url(./icon-exercise.svg);
 }
 .dashboard_item--social{
     background-color: var(--violet-500);
-    background-image: url(images/icon-social.svg);
+    background-image: url(./icon-social.svg);
 }
 .dashboard_item--self-care{
     background-color: var(--orange-100);
-    background-image: url(images/icon-self-care.svg);
+    background-image: url(./icon-self-care.svg);
 }
 
 .tracking-card{
